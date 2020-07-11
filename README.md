@@ -11,6 +11,8 @@ My name is Chase McFaddin. I was born and raised in small town Kingstree, South 
 - [Learning about Growth Mindset](growth-mindset.md)
 - [Breaking *down* Markdown](markdown-notes.md)
 - [Terminal Teachings](tools-terminal.md)
+- [HTML-notes](html-notes.md)
+
 
 
 
