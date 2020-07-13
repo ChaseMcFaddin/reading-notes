@@ -40,9 +40,9 @@ When designing navigation consider
 
 
 To make comments in HTML 
-`<!-- in a galaxy far fae away -->`
+`<!-- in a galaxy far far away -->`
 
-Attributesc
+Attributes
 - ID attritube
 - class attribute
 
@@ -50,13 +50,13 @@ Elements
 - block
 - inline
 
-`<div>` Groups elements in a box
-`<span>` used when no other alternatives are available. Used to help edit certain text within an element with CSS
-`<iframes>` Little window on page to see another page. Example: location with google maps
-`<meta>` helpful to relay information to server - like time sensitivity for financial transactions or how the site should work
+- `<div>` Groups elements in a box
+- `<span>` used when no other alternatives are available. Used to help edit certain text within an element with CSS
+- `<iframes>` Little window on page to see another page. Example: location with google maps
+- `<meta>` helpful to relay information to server - like time sensitivity for financial transactions or how the site should work
 
 
-
+[Back to Main page](README.md)
 
 
 
