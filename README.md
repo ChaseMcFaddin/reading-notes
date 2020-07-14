@@ -20,6 +20,9 @@ Let's connect:
 - [Git vs GitHub](git-vs-github.md)
 - [Learning about CSS](css-notes.md)
 - [Javascript Basics](javascript-notes.md)
+- [Javascript-Programming](code-js.md)
+- [Operators & Loops](ops-loops.md)
+- [How It All Works](how-it-works.md)
 
 Check out more 0f my work I've developed at Code Fellows:
 
