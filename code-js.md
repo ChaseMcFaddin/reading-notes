@@ -1,6 +1,6 @@
 ## Coding with Javascript
 
-
+> **Programmatic problem solving**: An approach, schedule or plan, step by step process
 
 Javascript makes pages more interactive.
 
@@ -36,6 +36,12 @@ There are 2 types of expressions:
 2. Expressions that use two or more values to a single value
 
 > **Operators** allow programmers to create a single value from multiple values
+
+- `=`: assingment operator
+- `||`: logical or
+- `&&`: logical and
+- `===`: strict equal
+- `==`: comparative equal
  
 ### **Arithmetic Operators**
 
@@ -56,6 +62,18 @@ There are 2 types of expressions:
 
 
 > A **function** allows you to combine multiple instructions together to perform a singular task.
+
+> A **declaration** is when a function is defined
+
+> A **call** is when you execute the function `()`
+
+> **Parameters** - passed in when you **DECLARE** function
+
+> **Arguments** - passed in when you **CALL** function
+
+> **Refactoring** - cleaning or changing to suit another purpose
+
+
 
 
 
