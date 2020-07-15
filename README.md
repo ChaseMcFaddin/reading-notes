@@ -1,6 +1,6 @@
 ## **Code Fellows 102**
 
-`![ ](image/chase.jpg)`
+`![chase](images/chase.jpg)`
 
  <img src="images/chase.jpg" alt="profile" id="profile">
 
