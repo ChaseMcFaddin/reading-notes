@@ -12,6 +12,7 @@ Let's connect:
 
 ### **Table of Contents:**
  
+ **CODE 102** 
 - [Learning about Growth Mindset](growth-mindest.md)
 - [Breaking *down* Markdown](markdown-notes.md)
 - [Terminal Teachings](tools-terminal.md)
@@ -22,6 +23,13 @@ Let's connect:
 - [Javascript-Programming](code-js.md)
 - [Operators & Loops](ops-loops.md)
 - [How It All Works](how-it-works.md)
+
+**CODE 201** 
+
+- [201 Homepage](201/README.md)
+
+
+
 
 Check out more 0f my work I've developed at Code Fellows:
 

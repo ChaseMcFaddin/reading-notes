@@ -12,16 +12,10 @@ Let's connect:
 
 ### **Table of Contents:**
  
-- [Learning about Growth Mindset](growth-mindest.md)
-- [Breaking *down* Markdown](markdown-notes.md)
-- [Terminal Teachings](tools-terminal.md)
-- [HTML Basics](html-notes.md)
-- [Git vs GitHub](git-vs-github.md)
-- [Learning about CSS](css-notes.md)
-- [Javascript Basics](javascript-notes.md)
-- [Javascript-Programming](code-js.md)
-- [Operators & Loops](ops-loops.md)
-- [How It All Works](how-it-works.md)
+- [Code 102](102/README.md)
+- [Code 201](201/README.md)
+- [Code 301](301/README.md)
+- [Code 401](401/README.md)
 
 Check out more 0f my work I've developed at Code Fellows:
 
