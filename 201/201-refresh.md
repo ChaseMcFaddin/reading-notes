@@ -123,14 +123,5 @@ If there are two rules for the same element the **LAST** one will take precenden
 - **Opacity** - The amount of almost see-through affect in a color
 
 HSL - Hue Saturation Lightness
-    - Works like RGB
 
-Example of RGB & HSL on page 260
-
-```
-
-p {
-    color: red;
-    width: 150px;
-}
-```
+[Main Page](README.md)
