@@ -15,16 +15,20 @@ Let's connect:
 
 ### **Table of Contents:**
  
-- [Learning about Growth Mindset](growth-mindest.md)
-- [Breaking *down* Markdown](markdown-notes.md)
-- [Terminal Teachings](tools-terminal.md)
-- [HTML Basics](html-notes.md)
-- [Git vs GitHub](git-vs-github.md)
-- [Learning about CSS](css-notes.md)
-- [Javascript Basics](javascript-notes.md)
-- [Javascript-Programming](code-js.md)
-- [Operators & Loops](ops-loops.md)
-- [How It All Works](how-it-works.md)
+- [201 Refresh](201-refresh.md)
+- [Read 02](read-02.md)
+- [Read 03](read-03.md)
+- [Read 04](read-04.md)
+- [Read 05](read-05.md)
+- [Read 06](read-06.md)
+- [Read 07](read-07.md)
+- [Read 08](read-08.md)
+- [Read 09](read-09.md)
+- [Read 10](read-10.md)
+- [Read 11](read-11.md)
+- [Read 12](read-12.md)
+- [Read 13](read-12.md)
+- [Read 14](read-14.md)
 
 Check out more 0f my work I've developed at Code Fellows:
 
