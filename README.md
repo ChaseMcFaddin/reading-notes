@@ -17,6 +17,6 @@ Let's connect:
 - [Code 301](301/README.md)
 - [Code 401](401/README.md)
 
-Check out more 0f my work I've developed at Code Fellows:
+Check out more of my work I've developed at Code Fellows:
 
 - [My GitHub page](https://github.com/ChaseMcFaddin)

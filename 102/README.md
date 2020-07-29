@@ -26,7 +26,7 @@ Let's connect:
 
 **CODE 201** 
 
-- [201 Homepage](201/README.md)
+- [201 Homepage](README.md)
 
 
 

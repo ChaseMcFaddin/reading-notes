@@ -28,6 +28,23 @@ Relative links can be accessed by referencing the correct folder
 
 **JS Notes**
 
+JQuery is what programmers refer to as a Javascript library
+
+Ajax is a technique for loading data into a page without needing to refresh
+
+JSON - Javascript Object Notation
+
+Ajax uses a asynchronous processing model to help the user do other things while the browser is still loading.
+
+It's important to remember how the webpage will operate without the Javascript enabled.
+
+You can incorporate JS, AJAX, and JSON into your page. 
+
+`.load()` is the easiest way to load HTML into your pages
+
+`.ajax()` is more powerful and more complex
+
+
 
 
 
