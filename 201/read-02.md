@@ -184,21 +184,4 @@ for (var i = 0; i < 10; i++){
     - Everytime the loop has run the statements it adds one to the counter
 
 
-
-[Main Page](README.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to the main page](../README.md)

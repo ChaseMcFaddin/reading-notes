@@ -124,4 +124,5 @@ If there are two rules for the same element the **LAST** one will take precenden
 
 HSL - Hue Saturation Lightness
 
-[Main Page](README.md)
+
+[Back to the main page](../README.md)

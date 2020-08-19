@@ -61,5 +61,4 @@ Loop types:
 2. While
 3. Do While
 
-
-[Main Page](README.md)
+[Back to the main page](../README.md)
