@@ -172,26 +172,4 @@ gradient.addColorStop(position, color)
   - Color of shadow
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to the main page](../README.md)

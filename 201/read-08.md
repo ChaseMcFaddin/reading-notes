@@ -49,26 +49,3 @@ You can control the space between lines of text, letters and words
 
 
 [Back to the main page](../README.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Back to the main page](../README.md)
